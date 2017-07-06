@@ -1,10 +1,10 @@
 <?php
 /**
- * Plugin Name: WooCommerce Parcelas com e sem Juros
- * Plugin URI: //www.atitudeti.com.br/
+ * Plugin Name: WooCommerce Parcelas Com e Sem Juros
+ * Plugin URI: //wordpress.org/plugins/woocommerce-parcelas-com-juros/
  * Description: Adiciona quantidade de parcelas e o valor de cada parcela com ou sem juros (PagSeguro ou Mercado Pago), nas páginas que listam todos os produtos e na página individual de cada produto.
  * Author: Leonardo Robles
- * Author URI: //www.atitudeti.com.br/
+ * Author URI: https://www.atitudeti.com.br/
  * Version: 1.0
  * Requires at least: 4.4
  * Tested up to: 4.8
